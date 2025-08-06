@@ -58,15 +58,15 @@ export const Projects = () => {
                         }}
                     />
                         <h3>
-                            AI Saas Platform
+                            Jettrack API Dagster Pipeline
                         </h3>
                         <p>
-                            Here is the description in projects.jsx
+                            Created and automated a Dagster CI/CD pipeline that runs every 30 minutes, queries data from Jettrack's API to collect jet movement as an alternative data for Industrials team. Manually flattened JSON files for ideal output
                         </p>
                         <div className="project-tech">
-                            <span>Next.js</span>
-                            <span>OpenAI</span>
-                            <span>TailwindCSS</span>
+                            <span>Dagster</span>
+                            <span>Python</span>
+                            <span>SQL</span>
                         </div>
                 </motion.div>
 
@@ -90,15 +90,15 @@ export const Projects = () => {
                         }}
                     />
                         <h3>
-                            Also something else
+                            Kubecost Infinity Plugin Allocator
                         </h3>
                         <p>
-                            Here is the description in projects.jsx
+                            Created an inhouse AWS Grafana dashboard using the infinity plugin to reduce idle costs for Kubernetes cluster, calling KubeCost API for real time data
                         </p>
                         <div className="project-tech">
-                            <span>Next.js</span>
-                            <span>OpenAI</span>
-                            <span>TailwindCSS</span>
+                            <span>AWS Grafana</span>
+                            <span>Kubernetes</span>
+                            <span>JSONPath</span>
                         </div>
 
                 </motion.div>
@@ -123,15 +123,16 @@ export const Projects = () => {
                         }}
                     />
                         <h3>
-                            Something else
+                            University Registration & Advising System: Full-Stack
                         </h3>
                         <p>
-                            Here is the description in projects.jsx
+                            Developed a database-integrated web application as part of an Agile team, designed to process 100+ student
+course registrations and 20+ advising forms across multiple platforms.
                         </p>
                         <div className="project-tech">
-                            <span>Next.js</span>
-                            <span>OpenAI</span>
-                            <span>TailwindCSS</span>
+                            <span>Python</span>
+                            <span>SQL</span>
+                            <span>HTML/CSS</span>
                         </div>
 
                 </motion.div>

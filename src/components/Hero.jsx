@@ -51,7 +51,7 @@ export const Hero = () => {
                         className="hero-description"
                         variants={fadeInUp}
                     >
-                        Put my small bio here in the Hero.jsx file
+                        Welcome to my website! If you want to take a look at some of the projects I have done, scroll done a little or click the 'view my work' button!
                     </motion.p>
 
                     <motion.div
@@ -67,7 +67,7 @@ export const Hero = () => {
                             View my Work
                         </motion.a>
                         <motion.a
-                            href="#contacts"
+                            href="#contact"
                             className="cta-secondary"
                             whileHover={{scale: 1.05}}
                             whileTap={{scale: 0.95}}

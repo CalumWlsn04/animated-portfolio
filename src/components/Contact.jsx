@@ -32,6 +32,13 @@ export const Contact = () => {
             >
                 Get in Touch
             </motion.h2>
+            <motion.div
+                className="contact-grid"
+                variants={staggerContainer}
+                initial="initial"
+                whileInView="animate"
+                viewport={{once : true}}
+            ></motion.div>
 
             <motion.div
                 className="contact-content"
